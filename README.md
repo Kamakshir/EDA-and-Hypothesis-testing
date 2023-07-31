@@ -1,4 +1,4 @@
-# EDA-and-Hypothesis-testing
+# EDA-and-Hypothesis-testing-for-Insurance-claims
 Task 1:- Using lending club loans data, the team would like to test below hypothesis on how different factors effecing each other (Hint: You may leverage hypothesis testing using statistical tests) a. Intrest rate is varied for different loan amounts (Less intrest charged for high loan amounts) b. Loan length is directly effecting intrest rate. c. Inrest rate varies for different purpose of loans d. There is relationship between FICO scores and Home Ownership. It means that, People with owning home will have high FICO scores.
 
 Task 2:- if there is any difference in the average price quotes provided by Mary and Barry.
